@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  
+  padding: 1%;
+  background-color: #222;
+  height: 60px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.btn-player {
+  background-color: #0f0835;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 15px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.btn-player:hover {opacity: 1}

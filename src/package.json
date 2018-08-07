@@ -1,0 +1,22 @@
+{
+  "name": "kiosk-web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/react-native-video": "^2.0.5",
+    "babel-polyfill": "^6.26.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-full-screen": "^0.2.2",
+    "react-native": "^0.56.0",
+    "react-player": "^1.6.4",
+    "react-scripts": "1.1.4",
+    "screenfull": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
