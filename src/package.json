@@ -2,6 +2,7 @@
   "name": "kiosk-web",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://coderbunker.github.io/kiosk-for-web/",
   "dependencies": {
     "@types/react-native-video": "^2.0.5",
     "babel-polyfill": "^6.26.0",
