@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "babel-polyfill": "^6.26.0",
+    "jsrender": "^0.9.90",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-full-screen": "^0.2.2",

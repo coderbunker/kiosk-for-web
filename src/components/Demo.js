@@ -1,9 +1,7 @@
 import React from 'react';
 import ReactPlayer from 'react-player';
-import { findDOMNode } from 'react-dom'
-import screenfull from 'screenfull'
-
-import { PlayButton, PauseButton } from 'react-player-controls'
+import { findDOMNode } from 'react-dom';
+import screenfull from 'screenfull';
 
 class Demo extends React.Component {
     constructor(props) {
